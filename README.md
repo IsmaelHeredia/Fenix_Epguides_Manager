@@ -1,6 +1,6 @@
 # Fenix Epguides Manager
 
-List episodes guides of any show
+A program to read the guide of any series, is useful to know future dates.
 
 An image : 
 
