@@ -1,6 +1,6 @@
 # Fenix Epguides Manager
 
-A program to read the guide of any series, is useful to know future dates.
+A program to read the chapter guide of any series, is useful to know the future dates.
 
 An image : 
 
