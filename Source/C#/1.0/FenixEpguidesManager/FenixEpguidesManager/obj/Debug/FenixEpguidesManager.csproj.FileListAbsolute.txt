@@ -1,0 +1,15 @@
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.exe
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.pdb
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\bin\Debug\FenixEpguidesManager.exe
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\bin\Debug\FenixEpguidesManager.pdb
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.csprojResolveAssemblyReference.cache
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.FormHome.resources
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.Properties.Resources.resources
+C:\Users\TheRooster\Desktop\Ismael Heredia\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.csproj.GenerateResource.Cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\bin\Debug\FenixEpguidesManager.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\bin\Debug\FenixEpguidesManager.pdb
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.FormHome.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.Properties.Resources.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.csproj.GenerateResource.Cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Epguides Manager\FenixEpguidesManager\FenixEpguidesManager\obj\Debug\FenixEpguidesManager.pdb
